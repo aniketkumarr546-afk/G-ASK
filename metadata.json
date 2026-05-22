@@ -1,0 +1,6 @@
+{
+  "name": "G-ASK",
+  "description": "An AI-powered search companion offering instant answers, code assistance, data synthesis, and creative generation with a clean, ad-free interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
